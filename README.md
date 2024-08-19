@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JustHRK
+- 👋 Hi, I’m Harshal Kumbhalkar
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python Development
+- 🌱 I’m currently working on Machine Learning and its Applications
 - 📫 How to reach me - harshal.kumbhalkar@outlook.com
